@@ -1,1 +1,1 @@
-/usr/bin/bash service bee restart
+/bin/bash service bee restart
